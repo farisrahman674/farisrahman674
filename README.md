@@ -37,8 +37,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tabibito&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tabibito&theme=tokyonight" alt="GitHub Streak" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=farisrahman674&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farisrahman674&theme=tokyonight" alt="GitHub Streak" height="160"/>
 </p>
 
 ---
@@ -46,7 +46,7 @@
 ## 🌀 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tabibito&theme=tokyo-night&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farisrahman674&theme=tokyo-night&area=true" />
 </p>
 
 ---
