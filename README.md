@@ -1,13 +1,13 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C3FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Faris+Rahman!;Fullstack+Web+Developer;React+%7C+Next.js+%7C+Express.js+%7C+TypeScript;Let's+Build+Something+Awesome+Together!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C3FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Faris+Rahman+Shalih!;Fullstack+Web+Developer;React+%7C+Next.js+%7C+Express.js+%7C+TypeScript;Let's+Build+Something+Awesome+Together!+🚀" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👋 About Me
 
-💻 I’m **Tabibito**, a passionate **Fullstack Web Developer** who loves turning ideas into elegant web applications.  
+💻 I’m **Faris Rahman Shalih**, a passionate **Fullstack Web Developer** who loves turning ideas into elegant web applications.  
 🌱 Currently exploring modern stacks like **React**, **Next.js**, and **Express**.  
 🎯 My focus is on writing clean, scalable, and maintainable code.  
 ✨ I enjoy learning, sharing, and creating beautiful things through code.
@@ -24,13 +24,13 @@
 
 ## 🚀 Featured Projects
 
-| Project                                                       | Description                                           | Tech                    |
-| :------------------------------------------------------------ | :---------------------------------------------------- | :---------------------- |
-| 🥩 [Toko Daging App](https://github.com/tabibito/tokodaging)  | Website penjualan daging segar dengan dashboard admin | PHP, CodeIgniter, MySQL |
-| 🎬 [Bioskop App](https://github.com/tabibito/bioskopapp)      | Website katalog film menggunakan REST API publik      | React, REST API         |
-| 📝 [NoteApp](https://github.com/tabibito/noteapp)             | A simple note-taking web app                          | React, Express, MongoDB |
-| 👾 [Pacman Game](https://github.com/tabibito/pacman)          | Pacman mini game dibuat dengan Unity Engine           | Unity C#                |
-| 🌐 [Portfolio Website](https://github.com/tabibito/portfolio) | Personal portfolio website showcasing all projects    | Next.js, TailwindCSS    |
+| Project                                                                 | Description                                                         | Tech Stack                           |
+| :---------------------------------------------------------------------- | :------------------------------------------------------------------ | :----------------------------------- |
+| 🔵 [Circle](https://github.com/tabibito/circle)                         | Website social media untuk berbagi postingan & interaksi antar user | Express, React, TypeScript, Tailwind |
+| ⚽ [FutsalGO](https://github.com/tabibito/futsalgo)                     | Website booking lapangan futsal secara online                       | Express, React, TypeScript, Tailwind |
+| 🧠 [Medic-AI](https://github.com/tabibito/medic-ai)                     | Website konsultasi kesehatan online berbasis AI                     | Next.js, Tailwind                    |
+| 🌐 [My Web](https://github.com/tabibito/myweb)                          | Website pribadi untuk menampilkan portofolio & profil profesional   | React, Tailwind                      |
+| 🧾 [Karyawan Reporting](https://github.com/tabibito/karyawan-reporting) | Website pelaporan hasil kerja karyawan secara digital               | Next.js, Supabase                    |
 
 ---
 
