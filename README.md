@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C3FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Tabibito!;Fullstack+Web+Developer;React+%7C+Next.js+%7C+Express.js+%7C+TypeScript;Let's+Build+Something+Awesome+Together!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C3FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Faris+Rahman!;Fullstack+Web+Developer;React+%7C+Next.js+%7C+Express.js+%7C+TypeScript;Let's+Build+Something+Awesome+Together!+🚀" alt="Typing SVG" />
 </p>
 
 ---
@@ -17,7 +17,7 @@
 ## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,php,codeigniter,mysql,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,php,codeigniter4,mysql,mongodb,git,github,vscode" />
 </p>
 
 ---
@@ -53,7 +53,7 @@
 
 ## 📫 Contact Me
 
-📧 **tabibito@example.com**  
+📧 **farisrahman760@gmail.com**  
 💼 [LinkedIn](https://linkedin.com/in/tabibito)  
 🌍 [Portfolio Website](https://tabibito.dev)
 
